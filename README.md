@@ -18,6 +18,7 @@ This repository contains solutions to various competitive programming and DSA pr
 | :--- | :--- |
 | Floor in a Sorted Array | [1.FloorinaSortedarray.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day3/1.FloorinaSortedarray.md) |
 | 1620. Factory Machines | [2.Factory Machines.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day3/2.Factory%20Machines.md) |
+| Ropes | [3.Ropes.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day3/3.Ropes.md) |
 
 ### 3. Greedy & Traversal
 
