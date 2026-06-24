@@ -8,25 +8,25 @@ This repository contains solutions to various competitive programming and DSA pr
 
 | Problem | Solution |
 | :--- | :--- |
-| Count a's | [2.Count a's.md](file:///c:/Users/gaura/OneDrive/Desktop/Summer%20Term/Summer_Pep_Tranning/Day1/2.Count%20a's.md) |
-| 238. Product of Array Except Self | [1.ProductOfArrayExceptSelf.md](file:///c:/Users/gaura/OneDrive/Desktop/Summer%20Term/Summer_Pep_Tranning/Day2/1.ProductOfArrayExceptSelf.md) |
-| 1652. Forest Queries | [2.Forest Queries.md](file:///c:/Users/gaura/OneDrive/Desktop/Summer%20Term/Summer_Pep_Tranning/Day2/2.Forest%20Queries.md) |
+| Count a's | [2.Count a's.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day1/2.Count%20a's.md) |
+| 238. Product of Array Except Self | [1.ProductOfArrayExceptSelf.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day2/1.ProductOfArrayExceptSelf.md) |
+| 1652. Forest Queries | [2.Forest Queries.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day2/2.Forest%20Queries.md) |
 
 ### 2. Binary Search
 
 | Problem | Solution |
 | :--- | :--- |
-| Floor in a Sorted Array | [1.FloorinaSortedarray.md](file:///c:/Users/gaura/OneDrive/Desktop/Summer%20Term/Summer_Pep_Tranning/Day3/1.FloorinaSortedarray.md) |
-| 1620. Factory Machines | [2.Factory Machines.md](file:///c:/Users/gaura/OneDrive/Desktop/Summer%20Term/Summer_Pep_Tranning/Day3/2.Factory%20Machines.md) |
+| Floor in a Sorted Array | [1.FloorinaSortedarray.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day3/1.FloorinaSortedarray.md) |
+| 1620. Factory Machines | [2.Factory Machines.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day3/2.Factory%20Machines.md) |
 
 ### 3. Greedy & Traversal
 
 | Problem | Solution |
 | :--- | :--- |
-| 121. Buy And Sell Stocks | [1.BuyAndSellStock.md](file:///c:/Users/gaura/OneDrive/Desktop/Summer%20Term/Summer_Pep_Tranning/Day1/1.BuyAndSellStock.md) |
+| 121. Buy And Sell Stocks | [1.BuyAndSellStock.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day1/1.BuyAndSellStock.md) |
 
 ### 4. Matrix Manipulation
 
 | Problem | Solution |
 | :--- | :--- |
-| 867. Transpose Matrix | [3.TransposeofaMatrix.md](file:///c:/Users/gaura/OneDrive/Desktop/Summer%20Term/Summer_Pep_Tranning/Day1/3.TransposeofaMatrix.md) |
+| 867. Transpose Matrix | [3.TransposeofaMatrix.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day1/3.TransposeofaMatrix.md) |
