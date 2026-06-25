@@ -20,6 +20,7 @@ This repository contains solutions to various competitive programming and DSA pr
 | 1620. Factory Machines | [2.Factory Machines.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day3/2.Factory%20Machines.md) |
 | Ropes | [3.Ropes.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day3/3.Ropes.md) |
 | 4. Koko Eating Banana | [4.KokoEatingBanana.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day4/1.KokoEatingBanana.md) |
+| 5. Building an Aquarium | [5.Building an Aquarium.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day4/2.BuildinganAquarium.md) |
 
 ### 3. Greedy & Traversal
 
