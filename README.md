@@ -8,9 +8,9 @@ This repository contains solutions to various competitive programming and DSA pr
 
 | Problem | Solution |
 | :--- | :--- |
-| Count a's | [2.Count a's.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day1/2.Count%20a's.md) |
-| 238. Product of Array Except Self | [1.ProductOfArrayExceptSelf.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day2/1.ProductOfArrayExceptSelf.md) |
-| 1652. Forest Queries | [2.Forest Queries.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day2/2.Forest%20Queries.md) |
+| Count a's | [1.Count a's.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day1/2.Count%20a's.md) |
+| 238. Product of Array Except Self | [2.ProductOfArrayExceptSelf.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day2/1.ProductOfArrayExceptSelf.md) |
+| 1652. Forest Queries | [3.Forest Queries.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day2/2.Forest%20Queries.md) |
 
 ### 2. Binary Search
 
@@ -19,6 +19,7 @@ This repository contains solutions to various competitive programming and DSA pr
 | Floor in a Sorted Array | [1.FloorinaSortedarray.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day3/1.FloorinaSortedarray.md) |
 | 1620. Factory Machines | [2.Factory Machines.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day3/2.Factory%20Machines.md) |
 | Ropes | [3.Ropes.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day3/3.Ropes.md) |
+| 4. Koko Eating Banana | [4.KokoEatingBanana.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day4/1.KokoEatingBanana.md) |
 
 ### 3. Greedy & Traversal
 
@@ -30,4 +31,4 @@ This repository contains solutions to various competitive programming and DSA pr
 
 | Problem | Solution |
 | :--- | :--- |
-| 867. Transpose Matrix | [3.TransposeofaMatrix.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day1/3.TransposeofaMatrix.md) |
+| 867. Transpose Matrix | [1.TransposeofaMatrix.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day1/3.TransposeofaMatrix.md) |
