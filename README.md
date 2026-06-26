@@ -33,3 +33,10 @@ This repository contains solutions to various competitive programming and DSA pr
 | Problem | Solution |
 | :--- | :--- |
 | 867. Transpose Matrix | [1.TransposeofaMatrix.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day1/3.TransposeofaMatrix.md) |
+
+### 5. Segment Tree & Sweep-Line
+
+| Problem | Solution |
+| :--- | :--- |
+| 1320C. Protect the Island | [1.ProtectTheIsland.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day5/1.ProtectTheIsland.md) |
+
