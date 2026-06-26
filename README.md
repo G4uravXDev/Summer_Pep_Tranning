@@ -9,8 +9,8 @@ This repository contains solutions to various competitive programming and DSA pr
 | Problem | Solution |
 | :--- | :--- |
 | Count a's | [1.Count a's.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day1/2.Count%20a's.md) |
-| 2. Product of Array Except Self | [2.ProductOfArrayExceptSelf.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day2/1.ProductOfArrayExceptSelf.md) |
-| 3. Forest Queries | [3.Forest Queries.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day2/2.Forest%20Queries.md) |
+| Product of Array Except Self | [2.ProductOfArrayExceptSelf.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day2/1.ProductOfArrayExceptSelf.md) |
+| Forest Queries | [3.Forest Queries.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day2/2.Forest%20Queries.md) |
 
 ### 2. Binary Search
 
@@ -41,9 +41,20 @@ This repository contains solutions to various competitive programming and DSA pr
 | :--- | :--- |
 | Protect the Island | [1.ProtectTheIsland.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day5/1.ProtectTheIsland.md) |
 
-### 6. Ad-Hoc and Math
+### 6. Mathematical Observation
 
 | Problem | Solution |
 | :--- | :--- |
-| Manhattan Distance | [2.ManhattanDistance.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day5/2.ManhattanDistance.md) |
-| Arrangement | [3.Arrangement.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day5/3.Arrangement.md) |
+| Manhattan Distance | [1.ManhattanDistance.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day5/2.ManhattanDistance.md) |
+
+### 7. Sliding Window
+
+| Problem | Solution |
+| :--- | :--- |
+| The Rival Team | [1.TheRivalTeam.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day5/5.TheRivalTeam.md) |
+
+### 8. Two Pointer
+
+| Problem | Solution |
+| :--- | :--- |
+| Arrangement | [1.Arrangement.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day5/3.Arrangement.md) |
