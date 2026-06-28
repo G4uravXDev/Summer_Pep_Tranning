@@ -58,3 +58,4 @@ This repository contains solutions to various competitive programming and DSA pr
 | Problem | Solution |
 | :--- | :--- |
 | Arrangement | [1.Arrangement.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day5/3.Arrangement.md) |
+| Container With Most Water | [1.ContainerWithMostWater.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day6/1.ContainerWithMostWater.md) |
