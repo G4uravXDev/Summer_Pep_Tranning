@@ -55,7 +55,8 @@ This repository contains solutions to various competitive programming and DSA pr
 | Max Sum Subarray of size K | [1.MaxSumSubarrayofsizeK.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day7/1.MaxSumSubarrayofsizeK.md) |
 | First Negative in Window of Size K | [2.FirstNegativeinWindowsofSizeK.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day7/2.FirstNegativeinWindowsofSizeK.md) |
 | KSizedSubarrayMaximum | [3.KSizedSubarrayMaximum.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day7/3.KSizedSubarrayMaximum.md) |
-| Distinct Characters in a Window | [5.LongestSubstringwithAtMostKDistinctCharacters.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day8/5.LongestSubstringwithAtMostKDistinctCharacters.md) |
+| Distinct Characters in a Window | [1.LongestSubstringwithAtMostKDistinctCharacters.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day8/1.LongestSubstringwithAtMostKDistinctCharacters.md) |
+| Subarrays with K Different Integers | [2.SubarrayswithKDifferentIntegers.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day8/2.SubarrayswithKDifferentIntegers.md) |
 
 ### 8. Two Pointer
 
@@ -64,3 +65,11 @@ This repository contains solutions to various competitive programming and DSA pr
 | Arrangement | [1.Arrangement.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day5/3.Arrangement.md) |
 | Container With Most Water | [1.ContainerWithMostWater.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day6/1.ContainerWithMostWater.md) |
 | Sum of Three Values | [4.SumofThreeValues.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day7/4.SumofThreeValues.md) |
+
+### 9. Stack
+
+| Problem | Solution |
+| :--- | :--- |
+| Previous Greater Element | [3.PreviousGreaterElement.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day8/3.PreviousGreaterElement.md) |
+| Previous Smaller Element | [4.PreviousSmallerElement.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day8/4.PreviousSmallerElement.md) |
+| Next Smaller Element | [5.NextSmallerElement.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day8/5.NextSmallerElement.md) |
