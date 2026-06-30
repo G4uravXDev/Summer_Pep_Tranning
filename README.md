@@ -52,6 +52,10 @@ This repository contains solutions to various competitive programming and DSA pr
 | Problem | Solution |
 | :--- | :--- |
 | The Rival Team | [1.TheRivalTeam.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day5/5.TheRivalTeam.md) |
+| Max Sum Subarray of size K | [1.MaxSumSubarrayofsizeK.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day7/1.MaxSumSubarrayofsizeK.md) |
+| First Negative in Window of Size K | [2.FirstNegativeinWindowsofSizeK.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day7/2.FirstNegativeinWindowsofSizeK.md) |
+| KSizedSubarrayMaximum | [3.KSizedSubarrayMaximum.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day7/3.KSizedSubarrayMaximum.md) |
+| Distinct Characters in a Window | [5.LongestSubstringwithAtMostKDistinctCharacters.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day8/5.LongestSubstringwithAtMostKDistinctCharacters.md) |
 
 ### 8. Two Pointer
 
@@ -59,3 +63,4 @@ This repository contains solutions to various competitive programming and DSA pr
 | :--- | :--- |
 | Arrangement | [1.Arrangement.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day5/3.Arrangement.md) |
 | Container With Most Water | [1.ContainerWithMostWater.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day6/1.ContainerWithMostWater.md) |
+| Sum of Three Values | [4.SumofThreeValues.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day7/4.SumofThreeValues.md) |
