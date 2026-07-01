@@ -1,5 +1,7 @@
 # Summer Pep Training - Problem Catalog
 
+> **Total Problems Solved:** `29`
+
 This repository contains solutions to various competitive programming and DSA problems solved during the Summer Pep Training. The problems are categorized below by their algorithmic techniques.
 
 ## Categories
