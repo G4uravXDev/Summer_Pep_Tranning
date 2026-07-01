@@ -28,6 +28,7 @@ This repository contains solutions to various competitive programming and DSA pr
 | Problem | Solution |
 | :--- | :--- |
 | Buy And Sell Stocks | [1.BuyAndSellStock.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day1/1.BuyAndSellStock.md) |
+| Towers | [2.Tower.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day9/3.Tower.md) |
 
 ### 4. Matrix Manipulation
 
