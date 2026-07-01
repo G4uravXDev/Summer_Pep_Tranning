@@ -73,3 +73,5 @@ This repository contains solutions to various competitive programming and DSA pr
 | Previous Greater Element | [1.PreviousGreaterElement.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day8/3.PreviousGreaterElement.md) |
 | Previous Smaller Element | [2.PreviousSmallerElement.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day8/4.PreviousSmallerElement.md) |
 | Next Smaller Element | [3.NextSmallerElement.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day8/5.NextSmallerElement.md) |
+| Maximal Rectangle | [4.MaximalRectangle.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day9/1.MaximalRectangle.md) |
+| Largest Rectangle in Histogram | [5.LargestRectangleinHistogram.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day9/2.LargestRectangleinHistogram.md) |
