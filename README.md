@@ -41,6 +41,7 @@ This repository contains solutions to various competitive programming and DSA pr
 | Problem | Solution |
 | :--- | :--- |
 | Protect the Island | [1.ProtectTheIsland.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day5/1.ProtectTheIsland.md) |
+| Overlapping Intervals | [2.OverlappingIntervals.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day9/4.OverlappingIntervals.md) |
 
 ### 6. Mathematical Observation
 
