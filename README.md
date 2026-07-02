@@ -1,6 +1,6 @@
 # Summer Pep Training - Problem Catalog
 
-> **Total Problems Solved:** `29`
+> **Total Problems Solved:** `34`
 
 This repository contains solutions to various competitive programming and DSA problems solved during the Summer Pep Training. The problems are categorized below by their algorithmic techniques.
 
@@ -30,7 +30,7 @@ This repository contains solutions to various competitive programming and DSA pr
 | Problem | Solution |
 | :--- | :--- |
 | Buy And Sell Stocks | [1.BuyAndSellStock.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day1/1.BuyAndSellStock.md) |
-| Towers | [2.Tower.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day 9/3.Tower.md) |
+| Towers | [2.Tower.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day9/3.Tower.md) |
 | Jump game 2 | [3.Jumpgame2.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day10/1.Jumpgame2.md) |
 | Maximum Meetings In One Room | [4.MaximumMeetingsInOneRoom.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day10/2.MaximumMeetingsInOneRoom.md) |
 | Minimum Platforms | [5.MinimumPlatforms.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day10/3.MinimumPlatforms.md) |
@@ -79,6 +79,6 @@ This repository contains solutions to various competitive programming and DSA pr
 | :--- | :--- |
 | Previous Greater Element | [1.PreviousGreaterElement.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day8/3.PreviousGreaterElement.md) |
 | Previous Smaller Element | [2.PreviousSmallerElement.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day8/4.PreviousSmallerElement.md) |
-| Next Smaller Element | [3.NextSmallerElement.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day 8/5.NextSmallerElement.md) |
+| Next Smaller Element | [3.NextSmallerElement.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day8/5.NextSmallerElement.md) |
 | Maximal Rectangle | [4.MaximalRectangle.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day9/1.MaximalRectangle.md) |
 | Largest Rectangle in Histogram | [5.LargestRectangleinHistogram.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day9/2.LargestRectangleinHistogram.md) |
