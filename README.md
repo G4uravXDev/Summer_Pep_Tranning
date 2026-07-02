@@ -31,6 +31,9 @@ This repository contains solutions to various competitive programming and DSA pr
 | :--- | :--- |
 | Buy And Sell Stocks | [1.BuyAndSellStock.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day1/1.BuyAndSellStock.md) |
 | Towers | [2.Tower.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day9/3.Tower.md) |
+| Jump game 2 | [1.Jumpgame2.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day10/1.Jumpgame2.md) |
+| Maximum Meetings In One Room | [2.MaximumMeetingsInOneRoom.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day10/2.MaximumMeetingsInOneRoom.md) |
+| Minimum Platforms | [3.MinimumPlatforms.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day10/3.MinimumPlatforms.md) |
 
 ### 4. Matrix Manipulation
 
