@@ -10,75 +10,75 @@ This repository contains solutions to various competitive programming and DSA pr
 
 | Problem | Solution |
 | :--- | :--- |
-| Count a's | [1.Count a's.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day 1/2.Count%20a's.md) |
-| Product of Array Except Self | [2.ProductOfArrayExceptSelf.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day 2/1.ProductOfArrayExceptSelf.md) |
-| Forest Queries | [3.Forest Queries.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day 2/2.Forest%20Queries.md) |
+| Count a's | [1.Count a's.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day1/2.Count%20a's.md) |
+| Product of Array Except Self | [2.ProductOfArrayExceptSelf.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day2/1.ProductOfArrayExceptSelf.md) |
+| Forest Queries | [3.Forest Queries.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day2/2.Forest%20Queries.md) |
 
 ### 2. Binary Search
 
 | Problem | Solution |
 | :--- | :--- |
-| Floor in a Sorted Array | [1.FloorinaSortedarray.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day 3/1.FloorinaSortedarray.md) |
-| Factory Machines | [2.Factory Machines.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day 3/2.Factory%20Machines.md) |
-| Ropes | [3.Ropes.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day 3/3.Ropes.md) |
-| Koko Eating Banana | [4.KokoEatingBanana.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day 4/1.KokoEatingBanana.md) |
-| Building an Aquarium | [5.Building an Aquarium.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day 4/2.BuildinganAquarium.md) |
-| ATM Transaction | [6.ATMTransaction.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day 5/4.ATMTransaction.md) |
+| Floor in a Sorted Array | [1.FloorinaSortedarray.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day3/1.FloorinaSortedarray.md) |
+| Factory Machines | [2.Factory Machines.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day3/2.Factory%20Machines.md) |
+| Ropes | [3.Ropes.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day3/3.Ropes.md) |
+| Koko Eating Banana | [4.KokoEatingBanana.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day4/1.KokoEatingBanana.md) |
+| Building an Aquarium | [5.Building an Aquarium.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day4/2.BuildinganAquarium.md) |
+| ATM Transaction | [6.ATMTransaction.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day5/4.ATMTransaction.md) |
 
 ### 3. Greedy & Traversal
 
 | Problem | Solution |
 | :--- | :--- |
-| Buy And Sell Stocks | [1.BuyAndSellStock.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day 1/1.BuyAndSellStock.md) |
+| Buy And Sell Stocks | [1.BuyAndSellStock.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day1/1.BuyAndSellStock.md) |
 | Towers | [2.Tower.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day 9/3.Tower.md) |
-| Jump game 2 | [3.Jumpgame2.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day 10/1.Jumpgame2.md) |
-| Maximum Meetings In One Room | [4.MaximumMeetingsInOneRoom.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day 10/2.MaximumMeetingsInOneRoom.md) |
-| Minimum Platforms | [5.MinimumPlatforms.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day 10/3.MinimumPlatforms.md) |
+| Jump game 2 | [3.Jumpgame2.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day10/1.Jumpgame2.md) |
+| Maximum Meetings In One Room | [4.MaximumMeetingsInOneRoom.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day10/2.MaximumMeetingsInOneRoom.md) |
+| Minimum Platforms | [5.MinimumPlatforms.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day10/3.MinimumPlatforms.md) |
 
 ### 4. Matrix Manipulation
 
 | Problem | Solution |
 | :--- | :--- |
-| Transpose Matrix | [1.TransposeofaMatrix.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day 1/3.TransposeofaMatrix.md) |
+| Transpose Matrix | [1.TransposeofaMatrix.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day1/3.TransposeofaMatrix.md) |
 
 ### 5. Segment Tree & Sweep-Line
 
 | Problem | Solution |
 | :--- | :--- |
-| Protect the Island | [1.ProtectTheIsland.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day 5/1.ProtectTheIsland.md) |
-| Overlapping Intervals | [2.OverlappingIntervals.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day 9/4.OverlappingIntervals.md) |
+| Protect the Island | [1.ProtectTheIsland.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day5/1.ProtectTheIsland.md) |
+| Overlapping Intervals | [2.OverlappingIntervals.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day9/4.OverlappingIntervals.md) |
 
 ### 6. Mathematical Observation
 
 | Problem | Solution |
 | :--- | :--- |
-| Manhattan Distance | [1.ManhattanDistance.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day 5/2.ManhattanDistance.md) |
+| Manhattan Distance | [1.ManhattanDistance.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day5/2.ManhattanDistance.md) |
 
 ### 7. Sliding Window
 
 | Problem | Solution |
 | :--- | :--- |
-| The Rival Team | [1.TheRivalTeam.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day 5/5.TheRivalTeam.md) |
-| Max Sum Subarray of size K | [2.MaxSumSubarrayofsizeK.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day 7/1.MaxSumSubarrayofsizeK.md) |
-| First Negative in Window of Size K | [3.FirstNegativeinWindowsofSizeK.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day 7/2.FirstNegativeinWindowsofSizeK.md) |
-| KSizedSubarrayMaximum | [4.KSizedSubarrayMaximum.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day 7/3.KSizedSubarrayMaximum.md) |
-| Distinct Characters in a Window | [5.LongestSubstringwithAtMostKDistinctCharacters.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day 8/1.LongestSubstringwithAtMostKDistinctCharacters.md) |
-| Subarrays with K Different Integers | [6.SubarrayswithKDifferentIntegers.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day 8/2.SubarrayswithKDifferentIntegers.md) |
+| The Rival Team | [1.TheRivalTeam.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day5/5.TheRivalTeam.md) |
+| Max Sum Subarray of size K | [2.MaxSumSubarrayofsizeK.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day7/1.MaxSumSubarrayofsizeK.md) |
+| First Negative in Window of Size K | [3.FirstNegativeinWindowsofSizeK.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day7/2.FirstNegativeinWindowsofSizeK.md) |
+| KSizedSubarrayMaximum | [4.KSizedSubarrayMaximum.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day7/3.KSizedSubarrayMaximum.md) |
+| Distinct Characters in a Window | [5.LongestSubstringwithAtMostKDistinctCharacters.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day8/1.LongestSubstringwithAtMostKDistinctCharacters.md) |
+| Subarrays with K Different Integers | [6.SubarrayswithKDifferentIntegers.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day8/2.SubarrayswithKDifferentIntegers.md) |
 
 ### 8. Two Pointer
 
 | Problem | Solution |
 | :--- | :--- |
-| Arrangement | [1.Arrangement.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day 5/3.Arrangement.md) |
-| Container With Most Water | [2.ContainerWithMostWater.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day 6/1.ContainerWithMostWater.md) |
-| Sum of Three Values | [3.SumofThreeValues.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day 7/4.SumofThreeValues.md) |
+| Arrangement | [1.Arrangement.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day5/3.Arrangement.md) |
+| Container With Most Water | [2.ContainerWithMostWater.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day6/1.ContainerWithMostWater.md) |
+| Sum of Three Values | [3.SumofThreeValues.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day7/4.SumofThreeValues.md) |
 
 ### 9. Stack
 
 | Problem | Solution |
 | :--- | :--- |
-| Previous Greater Element | [1.PreviousGreaterElement.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day 8/3.PreviousGreaterElement.md) |
-| Previous Smaller Element | [2.PreviousSmallerElement.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day 8/4.PreviousSmallerElement.md) |
+| Previous Greater Element | [1.PreviousGreaterElement.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day8/3.PreviousGreaterElement.md) |
+| Previous Smaller Element | [2.PreviousSmallerElement.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day8/4.PreviousSmallerElement.md) |
 | Next Smaller Element | [3.NextSmallerElement.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day 8/5.NextSmallerElement.md) |
-| Maximal Rectangle | [4.MaximalRectangle.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day 9/1.MaximalRectangle.md) |
-| Largest Rectangle in Histogram | [5.LargestRectangleinHistogram.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day 9/2.LargestRectangleinHistogram.md) |
+| Maximal Rectangle | [4.MaximalRectangle.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day9/1.MaximalRectangle.md) |
+| Largest Rectangle in Histogram | [5.LargestRectangleinHistogram.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day9/2.LargestRectangleinHistogram.md) |
