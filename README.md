@@ -82,3 +82,15 @@ This repository contains solutions to various competitive programming and DSA pr
 | Next Smaller Element | [3.NextSmallerElement.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day8/5.NextSmallerElement.md) |
 | Maximal Rectangle | [4.MaximalRectangle.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day9/1.MaximalRectangle.md) |
 | Largest Rectangle in Histogram | [5.LargestRectangleinHistogram.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day9/2.LargestRectangleinHistogram.md) |
+
+### 10. Linked List
+
+| Problem | Solution |
+| :--- | :--- |
+| Insertion At Beginning In LinkedList | [1.LinkedListInsertionAtBeginning.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day11/1.LinkedListInsertionAtBeginning.md) |
+| LinkedList Insertion At End | [2.LinkedListEndInsertion.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day11/2.LinkedListEndInsertion.md) |
+| Delete In A SinglyLinkedList | [3.DeleteInASinglyLinkedList.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day11/3.DeleteInASinglyLinkedList.md) |
+| Search In LinkedList | [4.SearchinLinkedList.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day11/4.SearchinLinkedList.md) |
+| Insertion At DoublyLinkedList | [5.InsertionAtDoublyLinkedList.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day11/5.InsertionAtDoublyLinkedList.md) |
+| Middle Of The LinkedList | [6.MiddleOfTheLinkedList.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day11/6.MiddleOfTheLinkedList.md) |
+| LinkedListCycle | [7.LinkedListCycle.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day11/7.LinkedListCycle.md) |
