@@ -131,3 +131,4 @@ This repository contains solutions to various competitive programming and DSA pr
 | Level Order Traversal | [4.LevelOrderTraversal.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day17/4.LevelOrderTraversal.md) |
 | Height of Binary Tree | [5.HeightofBinaryTree.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day17/5.HeightofBinaryTree.md) |
 | Balanced Binary Tree | [6.BalancedBinaryTree.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day17/6.BalancedBinaryTree.md) |
+| Right View Of Binary Tree | [7.RightViewofBinaryTree.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day17/7.RightViewofBinaryTree.md) |
