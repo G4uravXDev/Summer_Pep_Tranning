@@ -93,4 +93,4 @@ This repository contains solutions to various competitive programming and DSA pr
 | Search In LinkedList | [4.SearchinLinkedList.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day11/4.SearchinLinkedList.md) |
 | Insertion At DoublyLinkedList | [5.InsertionAtDoublyLinkedList.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day11/5.InsertionAtDoublyLinkedList.md) |
 | Middle Of The LinkedList | [6.MiddleOfTheLinkedList.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day11/6.MiddleOfTheLinkedList.md) |
-| LinkedListCycle | [7.LinkedListCycle.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day11/7.LinkedListCycle.md) |
+| Detect a Cycle in a Singly Linked List | [7.LinkedListCycle.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day11/7.LinkedListCycle.md) |
