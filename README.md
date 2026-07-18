@@ -94,8 +94,8 @@ This repository contains solutions to various competitive programming and DSA pr
 | Insertion At DoublyLinkedList | [5.InsertionAtDoublyLinkedList.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day11/5.InsertionAtDoublyLinkedList.md) |
 | Middle Of The LinkedList | [6.MiddleOfTheLinkedList.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day11/6.MiddleOfTheLinkedList.md) |
 | Detect a Cycle in a Singly Linked List | [7.LinkedListCycle.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day11/7.LinkedListCycle.md) |
-| Reverse Linked List | [1.ReverseLL.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day12/1.ReverseLL.md) |
-| Remove Nth Node From End of List | [2.RemoveNodeFromEnd.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day12/2.RemoveNodeFromEnd.md) |
+| Reverse Linked List | [8.ReverseLL.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day12/1.ReverseLL.md) |
+| Remove Nth Node From End of List | [9.RemoveNodeFromEnd.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day12/2.RemoveNodeFromEnd.md) |
 
 ### 11. Recursion
 
@@ -105,9 +105,9 @@ This repository contains solutions to various competitive programming and DSA pr
 | Fibonacci Number | [2.Fibonacci.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day14/2.Fibonacci.md) |
 | Weird Algorithm | [3.WeirdAlgorithm.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day14/3.WeirdAlgorithm.md) |
 | Generate All Binary Strings | [4.GenerateBinaryStrings.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day14/4.GenerateBinaryStrings.md) |
-| Subset Sum Problem | [1.SubsetSum.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day15/1.SubsetSum.md) |
-| Subsets II | [2.SubsetsII.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day15/2.SubsetsII.md) |
-| Count Good Numbers | [4.CountGoodNumbers.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day15/4.CountGoodNumbers.md) |
+| Subset Sum Problem | [5.SubsetSum.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day15/1.SubsetSum.md) |
+| Subsets II | [6.SubsetsII.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day15/2.SubsetsII.md) |
+| Count Good Numbers | [7.CountGoodNumbers.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day15/4.CountGoodNumbers.md) |
 
 ### 12. Backtracking
 
@@ -116,10 +116,10 @@ This repository contains solutions to various competitive programming and DSA pr
 | Combination Sum | [1.CombinationSum.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day13/1.CombinationSum.md) |
 | Combination Sum II | [2.CombinationSumII.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day13/2.CombinationSumII.md) |
 | Letter Combinations of a Phone Number | [3.LetterCombinationOfPhone.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day15/3.LetterCombinationOfPhone.md) |
-| Word Search | [1.WordSearch.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day16/1.WordSearch.md) |
-| Rat in a Maze | [2.RatInaMaze.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day16/2.RatInaMaze.md) |
-| Sudoku Solver | [3.SudokuSolver.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day16/3.SudokuSolver.md) |
-| N-Queens | [4.NQueens.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day16/4.NQueens.md) |
+| Word Search | [4.WordSearch.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day16/1.WordSearch.md) |
+| Rat in a Maze | [5.RatInaMaze.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day16/2.RatInaMaze.md) |
+| Sudoku Solver | [6.SudokuSolver.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day16/3.SudokuSolver.md) |
+| N-Queens | [7.NQueens.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day16/4.NQueens.md) |
 
 ### 13. Tree Traversal
 
