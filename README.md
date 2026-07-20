@@ -1,6 +1,6 @@
 # Summer Pep Training - Problem Catalog
 
-> **Total Problems Solved:** `65`
+> **Total Problems Solved:** `68`
 
 This repository contains solutions to various competitive programming and DSA problems solved during the Summer Pep Training. The problems are categorized below by their algorithmic techniques.
 
@@ -138,3 +138,6 @@ This repository contains solutions to various competitive programming and DSA pr
 | Bottom View Of Binary Tree | [8.BottomViewOfBinaryTree.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day19/1.BottomViewOfBinaryTree.md) |
 | Left View Of Binary Tree | [9.LeftViewOfBinaryTree.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day19/2.LeftViewOfBinaryTree.md) |
 | Top View Of Binary Tree | [10.TopViewOfBinaryTree.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day19/3.TopViewOfBinaryTree.md) |
+| Vertical Order Traversal | [11.VerticalOrder.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day20/1.VerticalOrder.md) |
+| ZigZag Tree Traversal | [12.ZigZag.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day20/2.ZigZag.md) |
+| Boundary Traversal of Binary Tree | [13.BoundaryTraversal.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day20/3.BoundaryTraversal.md) |
