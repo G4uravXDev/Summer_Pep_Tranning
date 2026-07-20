@@ -1,6 +1,6 @@
 # Summer Pep Training - Problem Catalog
 
-> **Total Problems Solved:** `56`
+> **Total Problems Solved:** `65`
 
 This repository contains solutions to various competitive programming and DSA problems solved during the Summer Pep Training. The problems are categorized below by their algorithmic techniques.
 
@@ -24,6 +24,7 @@ This repository contains solutions to various competitive programming and DSA pr
 | Koko Eating Banana | [4.KokoEatingBanana.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day04/1.KokoEatingBanana.md) |
 | Building an Aquarium | [5.Building an Aquarium.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day04/2.BuildinganAquarium.md) |
 | ATM Transaction | [6.ATMTransaction.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day05/4.ATMTransaction.md) |
+| Building An Aquarium (Codeforces) | [7.BuildingAnAquarium.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day18/2.BuildingAnAquarium.md) |
 
 ### 3. Greedy & Traversal
 
@@ -34,6 +35,7 @@ This repository contains solutions to various competitive programming and DSA pr
 | Jump game 2 | [3.Jumpgame2.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day10/1.Jumpgame2.md) |
 | Maximum Meetings In One Room | [4.MaximumMeetingsInOneRoom.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day10/2.MaximumMeetingsInOneRoom.md) |
 | Minimum Platforms | [5.MinimumPlatforms.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day10/3.MinimumPlatforms.md) |
+| Missing Coin Sum | [6.MissingCoinSum.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day18/1.MissingCoinSum.md) |
 
 ### 4. Matrix Manipulation
 
@@ -120,6 +122,7 @@ This repository contains solutions to various competitive programming and DSA pr
 | Rat in a Maze | [5.RatInaMaze.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day16/2.RatInaMaze.md) |
 | Sudoku Solver | [6.SudokuSolver.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day16/3.SudokuSolver.md) |
 | N-Queens | [7.NQueens.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day16/4.NQueens.md) |
+| Combination Sum III | [8.CombinationSumIII.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day18/3.CombinationSumIII.md) |
 
 ### 13. Tree Traversal
 
@@ -132,3 +135,6 @@ This repository contains solutions to various competitive programming and DSA pr
 | Height of Binary Tree | [5.HeightofBinaryTree.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day17/5.HeightofBinaryTree.md) |
 | Balanced Binary Tree | [6.BalancedBinaryTree.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day17/6.BalancedBinaryTree.md) |
 | Right View Of Binary Tree | [7.RightViewofBinaryTree.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day17/7.RightViewofBinaryTree.md) |
+| Bottom View Of Binary Tree | [8.BottomViewOfBinaryTree.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day19/1.BottomViewOfBinaryTree.md) |
+| Left View Of Binary Tree | [9.LeftViewOfBinaryTree.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day19/2.LeftViewOfBinaryTree.md) |
+| Top View Of Binary Tree | [10.TopViewOfBinaryTree.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day19/3.TopViewOfBinaryTree.md) |
