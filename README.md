@@ -141,3 +141,4 @@ This repository contains solutions to various competitive programming and DSA pr
 | Vertical Order Traversal | [11.VerticalOrder.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day20/1.VerticalOrder.md) |
 | ZigZag Tree Traversal | [12.ZigZag.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day20/2.ZigZag.md) |
 | Boundary Traversal of Binary Tree | [13.BoundaryTraversal.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day20/3.BoundaryTraversal.md) |
+| Lowest Common Ancestor | [13.LCAinBinaryTree.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day21/1.LCAinBinaryTree.md) |
