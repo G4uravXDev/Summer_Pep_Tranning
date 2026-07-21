@@ -1,6 +1,6 @@
 # Summer Pep Training - Problem Catalog
 
-> **Total Problems Solved:** `68`
+> **Total Problems Solved:** `77`
 
 This repository contains solutions to various competitive programming and DSA problems solved during the Summer Pep Training. The problems are categorized below by their algorithmic techniques.
 
@@ -141,4 +141,14 @@ This repository contains solutions to various competitive programming and DSA pr
 | Vertical Order Traversal | [11.VerticalOrder.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day20/1.VerticalOrder.md) |
 | ZigZag Tree Traversal | [12.ZigZag.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day20/2.ZigZag.md) |
 | Boundary Traversal of Binary Tree | [13.BoundaryTraversal.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day20/3.BoundaryTraversal.md) |
-| Lowest Common Ancestor | [13.LCAinBinaryTree.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day21/1.LCAinBinaryTree.md) |
+| Lowest Common Ancestor | [14.LCAinBinaryTree.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day21/1.LCAinBinaryTree.md) |
+
+### 14. Binary Search Tree
+
+| Problem | Solution |
+| :--- | :--- |
+| Search a Node in a BST | [1.SearchaNodeinBST.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day21/2.SearchaNodeinBST.md) |
+| Closest Neighbour in BST | [2.ClosestNeighborinBST.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day21/3.ClosestNeighborinBST.md) |
+| Implementing Ceil in BST | [3.ImplementingCeilinBST.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day21/4.ImplementingCeilinBST.md) |
+| Find K-th Smallest Element in BST | [4.FindkthSmallestElementinBST.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day21/5.FindkthSmallestElementinBST.md) |
+| k-th Largest Element in BST | [5.kthLargestElementinBST.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day21/6.kthLargestElementinBST.md) |
