@@ -1,6 +1,6 @@
 # Summer Pep Training - Problem Catalog
 
-> **Total Problems Solved:** `77`
+> **Total Problems Solved:** `78`
 
 This repository contains solutions to various competitive programming and DSA problems solved during the Summer Pep Training. The problems are categorized below by their algorithmic techniques.
 
@@ -152,3 +152,4 @@ This repository contains solutions to various competitive programming and DSA pr
 | Implementing Ceil in BST | [3.ImplementingCeilinBST.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day21/4.ImplementingCeilinBST.md) |
 | Find K-th Smallest Element in BST | [4.FindkthSmallestElementinBST.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day21/5.FindkthSmallestElementinBST.md) |
 | k-th Largest Element in BST | [5.kthLargestElementinBST.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day21/6.kthLargestElementinBST.md) |
+| Binary Search Tree Iterator | [6.BinarySearchTreeIterator.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day21/7.BinarySearchTreeIterator.md) |
