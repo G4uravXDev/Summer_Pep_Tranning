@@ -1,6 +1,6 @@
 # Summer Pep Training - Problem Catalog
 
-> **Total Problems Solved:** `78`
+> **Total Problems Solved:** `81`
 
 This repository contains solutions to various competitive programming and DSA problems solved during the Summer Pep Training. The problems are categorized below by their algorithmic techniques.
 
@@ -153,3 +153,13 @@ This repository contains solutions to various competitive programming and DSA pr
 | Find K-th Smallest Element in BST | [4.FindkthSmallestElementinBST.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day21/5.FindkthSmallestElementinBST.md) |
 | k-th Largest Element in BST | [5.kthLargestElementinBST.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day21/6.kthLargestElementinBST.md) |
 | Binary Search Tree Iterator | [6.BinarySearchTreeIterator.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day21/7.BinarySearchTreeIterator.md) |
+| Two Sum IV - Input is a BST | [7.1.TwoSum4.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day22/1.TwoSum4.md) |
+| Check for BST | [8.2.CheckforBST.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day22/2.CheckforBST.md) |
+| Lowest Common Ancestor in BST | [9.3.LCAinBST.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day22/3.LCAinBST.md) |
+
+### 15. Graph
+
+| Problem | Solution |
+| :--- | :--- |
+| Graph Adjacency List Traversal | [1.GraphAdjacencyListTraversal.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day22/4.GraphAdjacencyListTraversal.md) |
+| BFS of graph | [2.BFSofgraph.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day22/5.BFSofgraph.md) |
