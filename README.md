@@ -1,6 +1,6 @@
 # Summer Pep Training - Problem Catalog
 
-> **Total Problems Solved:** `81`
+> **Total Problems Solved:** `88`
 
 This repository contains solutions to various competitive programming and DSA problems solved during the Summer Pep Training. The problems are categorized below by their algorithmic techniques.
 
@@ -163,3 +163,8 @@ This repository contains solutions to various competitive programming and DSA pr
 | :--- | :--- |
 | Graph Adjacency List Traversal | [1.GraphAdjacencyListTraversal.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day22/4.GraphAdjacencyListTraversal.md) |
 | BFS of graph | [2.BFSofgraph.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day22/5.BFSofgraph.md) |
+| DFS of graph | [3.DFSofGraph.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day23/1.DFSofGraph.md) |
+| Number of Connected Components | [4.NumberofConnectedComponents.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day23/2.NumberofConnectedComponents.md) |
+| Connected Components in an Undirected Graph | [5.ConnectedComponentsinanUndirectedGraph.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day23/3.ConnectedComponentsinanUndirectedGraph.md) |
+| Rotting Oranges | [6.RottingOranges.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day23/4.RottingOranges.md) |
+| Detect Cycle in an Undirected Graph | [7.UndirectedGraphCycle.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day23/5.UndirectedGraphCycle.md) |
