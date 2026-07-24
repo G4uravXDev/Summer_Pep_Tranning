@@ -167,4 +167,6 @@ This repository contains solutions to various competitive programming and DSA pr
 | Number of Connected Components | [4.NumberofConnectedComponents.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day23/2.NumberofConnectedComponents.md) |
 | Connected Components in an Undirected Graph | [5.ConnectedComponentsinanUndirectedGraph.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day23/3.ConnectedComponentsinanUndirectedGraph.md) |
 | Rotting Oranges | [6.RottingOranges.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day23/4.RottingOranges.md) |
-| Detect Cycle in an Undirected Graph | [7.UndirectedGraphCycle.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day23/5.UndirectedGraphCycle.md) |
+| Detect Cycle in an Undirected Graph(DFS) | [7.UndirectedGraphCycle(DFS).md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day23/5.UndirectedGraphCycle(DFS).md) |
+| Detect Cycle in an Undirected Graph(BFS) | [8.UndirectedGraphCycle(BFS).md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day24/1.UndirectedGraphCycle(BFS).md) |
+| Topological Sort | [9.TopologicalSort.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day24/3.TopologicalSort.md) |
