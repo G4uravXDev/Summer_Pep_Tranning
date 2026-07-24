@@ -1,6 +1,6 @@
 # Summer Pep Training - Problem Catalog
 
-> **Total Problems Solved:** `88`
+> **Total Problems Solved:** `93`
 
 This repository contains solutions to various competitive programming and DSA problems solved during the Summer Pep Training. The problems are categorized below by their algorithmic techniques.
 
@@ -169,4 +169,6 @@ This repository contains solutions to various competitive programming and DSA pr
 | Rotting Oranges | [6.RottingOranges.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day23/4.RottingOranges.md) |
 | Detect Cycle in an Undirected Graph(DFS) | [7.UndirectedGraphCycle(DFS).md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day23/5.UndirectedGraphCycle(DFS).md) |
 | Detect Cycle in an Undirected Graph(BFS) | [8.UndirectedGraphCycle(BFS).md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day24/1.UndirectedGraphCycle(BFS).md) |
-| Topological Sort | [9.TopologicalSort.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day24/3.TopologicalSort.md) |
+| Detect Cycle in a Directed Graph | [9.DetectCycleInADirectedGraph.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day24/2.DetectCycleInADirectedGraph.md) |
+| Topological Sort | [10.TopologicalSort.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day24/3.TopologicalSort.md) |
+| Bipartite Graph | [11.BipartiteGraph.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day24/4.BipartiteGraph.md) |
