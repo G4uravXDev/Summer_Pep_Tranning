@@ -1,6 +1,6 @@
 # Summer Pep Training - Problem Catalog
 
-> **Total Problems Solved:** `93`
+> **Total Problems Solved:** `95`
 
 This repository contains solutions to various competitive programming and DSA problems solved during the Summer Pep Training. The problems are categorized below by their algorithmic techniques.
 
@@ -66,6 +66,8 @@ This repository contains solutions to various competitive programming and DSA pr
 | KSizedSubarrayMaximum | [4.KSizedSubarrayMaximum.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day07/3.KSizedSubarrayMaximum.md) |
 | Distinct Characters in a Window | [5.LongestSubstringwithAtMostKDistinctCharacters.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day08/1.LongestSubstringwithAtMostKDistinctCharacters.md) |
 | Subarrays with K Different Integers | [6.SubarrayswithKDifferentIntegers.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day08/2.SubarrayswithKDifferentIntegers.md) |
+| Minimum Size Subarray Sum | [7.MinimumSizeSubarraySum.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day25/2.MinimumSizeSubarraySum.md) |
+| Continuous Subarray With Absolute Diff Less Than or Equal to Limit | [8.ContinuousSubarrayWithAbsoluteDiffLessThanorEqualtoLimit.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day25/3.ContinuousSubarrayWithAbsoluteDiffLessThanorEqualtoLimit.md) |
 
 ### 8. Two Pointer
 
@@ -84,6 +86,7 @@ This repository contains solutions to various competitive programming and DSA pr
 | Next Smaller Element | [3.NextSmallerElement.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day08/5.NextSmallerElement.md) |
 | Maximal Rectangle | [4.MaximalRectangle.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day09/1.MaximalRectangle.md) |
 | Largest Rectangle in Histogram | [5.LargestRectangleinHistogram.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day09/2.LargestRectangleinHistogram.md) |
+| Sum of the Minimum of All Subarrays | [6.SumofTheMinimumofAllSubarrays.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day25/1.SumofTheMinimumofAllSubarrays.md) |
 
 ### 10. Linked List
 
