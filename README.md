@@ -1,6 +1,6 @@
 # Summer Pep Training - Problem Catalog
 
-> **Total Problems Solved:** `95`
+> **Total Problems Solved:** `99`
 
 This repository contains solutions to various competitive programming and DSA problems solved during the Summer Pep Training. The problems are categorized below by their algorithmic techniques.
 
@@ -145,6 +145,8 @@ This repository contains solutions to various competitive programming and DSA pr
 | ZigZag Tree Traversal | [12.ZigZag.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day20/2.ZigZag.md) |
 | Boundary Traversal of Binary Tree | [13.BoundaryTraversal.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day20/3.BoundaryTraversal.md) |
 | Lowest Common Ancestor | [14.LCAinBinaryTree.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day21/1.LCAinBinaryTree.md) |
+| Populating Next Right Pointers in Each Node | [15.PopulatingNextRightPointersinEachNode.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day26/2.PopulatingNextRightPointersinEachNode.md) |
+| Sum Root to Leaf Numbers | [16.SumRoottoLeafNumbers.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day26/4.SumRoottoLeafNumbers.md) |
 
 ### 14. Binary Search Tree
 
@@ -159,6 +161,7 @@ This repository contains solutions to various competitive programming and DSA pr
 | Two Sum IV - Input is a BST | [7.TwoSum4.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day22/1.TwoSum4.md) |
 | Check for BST | [8.CheckforBST.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day22/2.CheckforBST.md) |
 | Lowest Common Ancestor in BST | [9.LCAinBST.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day22/3.LCAinBST.md) |
+| Recover Binary Search Tree | [10.RecoverBinarySearchTree.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day26/1.RecoverBinarySearchTree.md) |
 
 ### 15. Graph
 
@@ -175,3 +178,4 @@ This repository contains solutions to various competitive programming and DSA pr
 | Detect Cycle in a Directed Graph | [9.DetectCycleInADirectedGraph.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day24/2.DetectCycleInADirectedGraph.md) |
 | Topological Sort | [10.TopologicalSort.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day24/3.TopologicalSort.md) |
 | Bipartite Graph | [11.BipartiteGraph.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day24/4.BipartiteGraph.md) |
+| Number of Islands | [12.NumberofIslands.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day26/3.NumberofIslands.md) |
