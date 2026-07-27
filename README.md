@@ -1,6 +1,6 @@
 # Summer Pep Training - Problem Catalog
 
-> **Total Problems Solved:** `99`
+> **Total Problems Solved:** `101`
 
 This repository contains solutions to various competitive programming and DSA problems solved during the Summer Pep Training. The problems are categorized below by their algorithmic techniques.
 
@@ -173,9 +173,16 @@ This repository contains solutions to various competitive programming and DSA pr
 | Number of Connected Components | [4.NumberofConnectedComponents.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day23/2.NumberofConnectedComponents.md) |
 | Connected Components in an Undirected Graph | [5.ConnectedComponentsinanUndirectedGraph.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day23/3.ConnectedComponentsinanUndirectedGraph.md) |
 | Rotting Oranges | [6.RottingOranges.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day23/4.RottingOranges.md) |
-| Detect Cycle in an Undirected Graph(DFS) | [7.UndirectedGraphCycle(DFS).md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day23/5.UndirectedGraphCycle(DFS).md) |
-| Detect Cycle in an Undirected Graph(BFS) | [8.UndirectedGraphCycle(BFS).md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day24/1.UndirectedGraphCycle(BFS).md) |
+| Detect Cycle in an Undirected Graph(DFS) | [7.UndirectedGraphCycle(DFS).md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day23/5.UndirectedGraphCycle%28DFS%29.md) |
+| Detect Cycle in an Undirected Graph(BFS) | [8.UndirectedGraphCycle(BFS).md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day24/1.UndirectedGraphCycle%28BFS%29.md) |
 | Detect Cycle in a Directed Graph | [9.DetectCycleInADirectedGraph.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day24/2.DetectCycleInADirectedGraph.md) |
 | Topological Sort | [10.TopologicalSort.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day24/3.TopologicalSort.md) |
 | Bipartite Graph | [11.BipartiteGraph.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day24/4.BipartiteGraph.md) |
 | Number of Islands | [12.NumberofIslands.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day26/3.NumberofIslands.md) |
+
+### 16. Dijkstra's Algorithm
+
+| Problem | Solution |
+| :--- | :--- |
+| Dijkstra Algorithm | [1.DijkstraAlgorithm.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day27/1.DijkstraAlgorithm.md) |
+| Network Delay Time | [2.NetworkDelayTime.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day27/2.NetworkDelayTime.md) |
