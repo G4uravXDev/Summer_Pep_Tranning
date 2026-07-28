@@ -1,6 +1,6 @@
 # Summer Pep Training - Problem Catalog
 
-> **Total Problems Solved:** `101`
+> **Total Problems Solved:** `102`
 
 This repository contains solutions to various competitive programming and DSA problems solved during the Summer Pep Training. The problems are categorized below by their algorithmic techniques.
 
@@ -190,3 +190,9 @@ This repository contains solutions to various competitive programming and DSA pr
 | :--- | :--- |
 | Dijkstra Algorithm | [1.DijkstraAlgorithm.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day27/1.DijkstraAlgorithm.md) |
 | Network Delay Time | [2.NetworkDelayTime.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day27/2.NetworkDelayTime.md) |
+
+### 17. Disjoint Set Union
+
+| Problem | Solution |
+| :--- | :--- |
+| News Distribution | [1.NewsDistribution.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day28/1.NewsDistribution.md) |
