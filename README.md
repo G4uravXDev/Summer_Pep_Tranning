@@ -1,6 +1,6 @@
 # Summer Pep Training - Problem Catalog
 
-> **Total Problems Solved:** `102`
+> **Total Problems Solved:** `103`
 
 This repository contains solutions to various competitive programming and DSA problems solved during the Summer Pep Training. The problems are categorized below by their algorithmic techniques.
 
@@ -196,3 +196,4 @@ This repository contains solutions to various competitive programming and DSA pr
 | Problem | Solution |
 | :--- | :--- |
 | News Distribution | [1.NewsDistribution.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day28/1.NewsDistribution.md) |
+| Making A Large Island | [2.MakingALargeIsland.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day28/2.MakingALargeIsland.md) |
