@@ -197,3 +197,12 @@ This repository contains solutions to various competitive programming and DSA pr
 | :--- | :--- |
 | News Distribution | [1.NewsDistribution.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day28/1.NewsDistribution.md) |
 | Making A Large Island | [2.MakingALargeIsland.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day28/2.MakingALargeIsland.md) |
+
+
+### 18. Dynamic Programming
+
+| Problem | Solution |
+| :--- | :--- |
+| Fibonacci Number| [1.FibonacciNumber.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day29/1.FibonacciNumber.md) |
+| House Robber | [2.HouseRobber.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day29/2.HouseRobber.md) |
+
