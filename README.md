@@ -205,4 +205,6 @@ This repository contains solutions to various competitive programming and DSA pr
 | :--- | :--- |
 | Fibonacci Number | [1.FibonacciNumber.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day29/1.FibonacciNumber.md) |
 | House Robber | [2.HouseRobber.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day29/2.HouseRobber.md) |
+| Unique Paths | [3.UniquePaths.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day29/3.UniquePaths.md) |
+
 
