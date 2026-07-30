@@ -1,6 +1,6 @@
 # Summer Pep Training - Problem Catalog
 
-> **Total Problems Solved:** `103`
+> **Total Problems Solved:** `108`
 
 This repository contains solutions to various competitive programming and DSA problems solved during the Summer Pep Training. The problems are categorized below by their algorithmic techniques.
 
@@ -206,6 +206,7 @@ This repository contains solutions to various competitive programming and DSA pr
 | Fibonacci Number | [1.FibonacciNumber.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day29/1.FibonacciNumber.md) |
 | House Robber | [2.HouseRobber.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day29/2.HouseRobber.md) |
 | Unique Paths | [3.UniquePaths.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day29/3.UniquePaths.md) |
-| Unique Paths II | [1.UniquePathsII.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day30/1.UniquePathsII.md) |
+| Unique Paths II | [4.UniquePathsII.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day30/1.UniquePathsII.md) |
+| Subset Sum Problem | [5.SubsetSumProblem.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day30/2.SubsetSumProblem.md) |
 
 
