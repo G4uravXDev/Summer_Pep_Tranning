@@ -1,6 +1,6 @@
 # Summer Pep Training - Problem Catalog
 
-> **Total Problems Solved:** `108`
+> **Total Problems Solved:** `111`
 
 This repository contains solutions to various competitive programming and DSA problems solved during the Summer Pep Training. The problems are categorized below by their algorithmic techniques.
 
@@ -208,5 +208,5 @@ This repository contains solutions to various competitive programming and DSA pr
 | Unique Paths | [3.UniquePaths.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day29/3.UniquePaths.md) |
 | Unique Paths II | [4.UniquePathsII.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day30/1.UniquePathsII.md) |
 | Subset Sum Problem | [5.SubsetSumProblem.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day30/2.SubsetSumProblem.md) |
-
-
+| 0/1 Knapsack Problem | [6.KnapsackProblem.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day31/1.KnapsackProblem.md) |
+| Buy And Sell Stock II | [7.BuyAndSellStockII.md](https://github.com/G4uravXDev/Summer_Pep_Tranning/blob/main/Day31/2.BuyAndSellStockII.md) |
